@@ -1,4 +1,4 @@
-puts "Ingrese su contraseña"
+puts "Ingrese su contraseña: "
 password = gets.chomp 
 
 while password != 'password'
