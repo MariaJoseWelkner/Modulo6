@@ -1,0 +1,1 @@
+# Crear el programa cuadrado_hueco.rb que al ejecutarse reciba un tamaño y dibuje un cuadrado dejando vacío el interior

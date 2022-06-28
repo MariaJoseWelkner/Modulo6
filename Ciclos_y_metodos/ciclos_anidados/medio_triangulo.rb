@@ -1,0 +1,1 @@
+# crear programa medio_triangulo que reciba el tamaño del triangulo 
