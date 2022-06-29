@@ -2,7 +2,7 @@
 # ● Llamar al método 3 veces, con edades generadas al azar
 
 
-def validar_edad
+def validar_edad(edad)
     edad = gets.to_i
     if edad >= 18
       puts "es mayor"
@@ -11,9 +11,13 @@ def validar_edad
     end
    end 
 
+   validar_edad(edad)
+
   print "dame una edad: "
-  validar_edad
+  validar_edad()
   print "dame una edad: "
-  validar_edad
+  validar_edad()
   print "dame una edad: "
-  validar_edad
+  validar_edad()
+
+  

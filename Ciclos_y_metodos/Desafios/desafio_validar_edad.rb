@@ -20,6 +20,7 @@ edad = 2022 - (birth_year)
 puts "su edad es de  #{edad} años"
 end 
 
+edad(1966)
 
 =begin
 puts 'ingrese edades al azar'
